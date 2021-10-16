@@ -36,5 +36,5 @@
     "postdeploy": "./install-db.sh"
   },
 
-  "success_url": "/settings"
+  "success_url": "/admin/settings"
 }
